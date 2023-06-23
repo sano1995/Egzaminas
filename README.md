@@ -2,12 +2,13 @@
 
 grozio paslaugos
 admin:
-Adminas
-admin123
-yra registracija
+USER: Adminas
+PASSWORD: admin123
+
 user:
-user
-user123
+USER:user
+PASSWORD:user123
+BET yra ir registracija
 
 tam kad galetu veikti programa reikia:
 
